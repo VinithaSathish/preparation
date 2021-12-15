@@ -1,6 +1,9 @@
 C Programming
 C# programming
-Third Sem subjects
+Third Sem
 Java
 Data Mining
 Computer Graphics
+fourth Sem 
+ASP.Net using C#
+PHP
